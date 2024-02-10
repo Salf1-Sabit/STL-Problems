@@ -17,3 +17,21 @@ Welcome to the STL Problem Practice Repository! Explore a curated collection of 
   - [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
   - [Indian Summer](https://codeforces.com/contest/44/problem/A) - `Set + Pair`
   - [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem?isFullScreen=true) - `Multiset`
+
+## Map 
+  - [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem)
+  - [Find the Frequency](https://practice.geeksforgeeks.org/problems/find-the-frequency/1)
+  - [Twice Counter](https://practice.geeksforgeeks.org/problems/twice-counter4236/1)
+  - [Word with maximum frequency](https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1)
+  - [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
+  - [Good Sequence](https://atcoder.jp/contests/arc087/tasks/arc087_a)
+  - [Minimum Stocks](https://www.spoj.com/problems/MINSTOCK/)
+  - [Boxes Packing](https://codeforces.com/contest/903/problem/C)
+  - [T-shirt buying](https://codeforces.com/contest/799/problem/B)
+  - [Array Division](https://codeforces.com/contest/808/problem/D)
+  - [Roommate Agreement](https://www.spoj.com/problems/CRAN02/) - `Map + Math`
+  - [Database](https://www.spoj.com/problems/RPLD/) - `Map of Sets`
+  - [Polycarp's phone book](https://codeforces.com/contest/861/problem/D) - `Unordered Map of Sets`
+  - [Hacking the random number generator](https://www.spoj.com/problems/HACKRNDM/)
+  - [Travel Cards](https://codeforces.com/contest/847/problem/K) - `Map + Queue`
+  - [Registration system](https://codeforces.com/contest/4/problem/C) - `Map + String`
