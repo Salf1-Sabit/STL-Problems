@@ -58,3 +58,13 @@ Welcome to the STL Problem Practice Repository! Explore a curated collection of 
   - [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true)
   - [Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem?isFullScreen=true)
   - [Tea Queue](https://codeforces.com/contest/920/problem/B)
+
+## Deque
+  - [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem)
+
+## Priority Queue
+  - [Reduce the array](https://www.spoj.com/problems/REDARR2/)
+
+## Miscellaneous
+  - [Petya and Strings](https://codeforces.com/contest/112/problem/A) - `tolower()`
+  - [Pairs STL 1](https://www.codechef.com/ABST2020/problems/PAIR/) - `Sorting + Pair`
