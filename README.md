@@ -50,3 +50,11 @@ Welcome to the STL Problem Practice Repository! Explore a curated collection of 
   - [Okabe and Boxes](https://codeforces.com/contest/821/problem/C)
   - [Waiter](https://www.hackerrank.com/challenges/waiter/problem?isFullScreen=true)
   - [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem?isFullScreen=true)
+
+## Queue
+  - [Empty arrays](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/empty-array-31ed638c/)
+  - [Disk tower](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/disk-tower-b7cc7a50/)
+  - [Number Recovery](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/number-recovery-0b988eb2/)
+  - [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true)
+  - [Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem?isFullScreen=true)
+  - [Tea Queue](https://codeforces.com/contest/920/problem/B)
