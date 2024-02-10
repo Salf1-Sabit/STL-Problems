@@ -68,3 +68,6 @@ Welcome to the STL Problem Practice Repository! Explore a curated collection of 
 ## Miscellaneous
   - [Petya and Strings](https://codeforces.com/contest/112/problem/A) - `tolower()`
   - [Pairs STL 1](https://www.codechef.com/ABST2020/problems/PAIR/) - `Sorting + Pair`
+
+> [!INFO]
+> [Codechef - Standard Template Library Contest](https://www.codechef.com/LRNDSA03?order=desc&sortBy=successful_submissions) is a good place to test your STL skills and learn something new while having fun.
