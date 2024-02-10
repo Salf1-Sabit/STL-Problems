@@ -35,3 +35,18 @@ Welcome to the STL Problem Practice Repository! Explore a curated collection of 
   - [Hacking the random number generator](https://www.spoj.com/problems/HACKRNDM/)
   - [Travel Cards](https://codeforces.com/contest/847/problem/K) - `Map + Queue`
   - [Registration system](https://codeforces.com/contest/4/problem/C) - `Map + String`
+
+## Stack
+  - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=true) 
+  - [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true)
+  - [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
+  - [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem?isFullScreen=true)
+  - [Chocolate stack](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/chocolate-stack-746c1b56/)
+  - [Jumpy Humpy](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/jumpy-humpy-5e0231d6/)
+  - [Fun Game <Capillary>](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/fun-game-91510e9f/)
+  - [Stack operations](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/stakth-1-e6a76632/)
+  - [Good Indices](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/good-indices-c7058c9b/)
+  - [Plug-in](https://codeforces.com/contest/81/problem/A)
+  - [Okabe and Boxes](https://codeforces.com/contest/821/problem/C)
+  - [Waiter](https://www.hackerrank.com/challenges/waiter/problem?isFullScreen=true)
+  - [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem?isFullScreen=true)
