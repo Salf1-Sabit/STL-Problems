@@ -75,6 +75,7 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Pairs STL 1](https://www.codechef.com/ABST2020/problems/PAIR/) - `Sort + Pair`
   - [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) - `Sort + String`
   - [Squares](https://codeforces.com/contest/263/problem/B)
+  - [Balanced Team](https://codeforces.com/problemset/problem/1133/C) - `Vector + Sort + upper_bound()`
 
 ## Miscellaneous
   - [Petya and Strings](https://codeforces.com/contest/112/problem/A) - `tolower()`
