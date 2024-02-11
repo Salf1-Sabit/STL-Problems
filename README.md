@@ -18,6 +18,7 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Indian Summer](https://codeforces.com/contest/44/problem/A) - `Set + Pair`
   - [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem?isFullScreen=true) - `Multiset`
   - [Distinct Digits]() - `Set or (Sort + unique())`
+  - [Hongcow Learns the Cyclic Shift](https://codeforces.com/contest/745/problem/A) - `Set + rotate()`
 
 ## Map 
   - [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem)
@@ -39,6 +40,7 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Unique Bid Auction](https://codeforces.com/contest/1454/problem/B)
   - [Grandfather Dovlet’s calculator](https://codeforces.com/contest/620/problem/B) - `Map or similar`
   - [Reachable Numbers](https://codeforces.com/contest/1157/problem/A) - `Map or Set`
+  - [Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) - `Map or similar`
 
 ## Stack
   - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=true) 
