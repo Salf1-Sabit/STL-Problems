@@ -17,6 +17,7 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
   - [Indian Summer](https://codeforces.com/contest/44/problem/A) - `Set + Pair`
   - [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem?isFullScreen=true) - `Multiset`
+  - [Distinct Digits]() - `Set or (Sort + unique())`
 
 ## Map 
   - [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem)
@@ -35,6 +36,9 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Hacking the random number generator](https://www.spoj.com/problems/HACKRNDM/)
   - [Travel Cards](https://codeforces.com/contest/847/problem/K) - `Map + Queue`
   - [Registration system](https://codeforces.com/contest/4/problem/C) - `Map + String`
+  - [Unique Bid Auction](https://codeforces.com/contest/1454/problem/B)
+  - [Grandfather Dovlet’s calculator](https://codeforces.com/contest/620/problem/B) - `Map or similar`
+  - [Reachable Numbers](https://codeforces.com/contest/1157/problem/A) - `Map or Set`
 
 ## Stack
   - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=true) 
@@ -65,9 +69,13 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
 ## Priority Queue
   - [Reduce the array](https://www.spoj.com/problems/REDARR2/)
 
+## Sort 
+  - [Pairs STL 1](https://www.codechef.com/ABST2020/problems/PAIR/) - `Sort + Pair`
+  - [Avoid Trygub](https://codeforces.com/contest/1450/problem/A) - `Sort + String`
+  - [Squares](https://codeforces.com/contest/263/problem/B)
+
 ## Miscellaneous
   - [Petya and Strings](https://codeforces.com/contest/112/problem/A) - `tolower()`
-  - [Pairs STL 1](https://www.codechef.com/ABST2020/problems/PAIR/) - `Sorting + Pair`
 
 > [!TIP]
 > [Codechef - Standard Template Library Contest](https://www.codechef.com/LRNDSA03?order=desc&sortBy=successful_submissions) is a good place to test your STL skills and learn something new while having fun.
