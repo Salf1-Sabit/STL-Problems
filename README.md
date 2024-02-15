@@ -41,6 +41,7 @@ Welcome to the STL Problem Practice Repository! Explore a curated topic-specific
   - [Grandfather Dovlet’s calculator](https://codeforces.com/contest/620/problem/B) - `Map or similar`
   - [Reachable Numbers](https://codeforces.com/contest/1157/problem/A) - `Map or Set`
   - [Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) - `Map or similar`
+  - [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) - `Map + Math`
 
 ## Stack
   - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=true) 
